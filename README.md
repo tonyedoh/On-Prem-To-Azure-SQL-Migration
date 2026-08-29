@@ -24,7 +24,7 @@ Before executing the migration, I performed a comprehensive compatibility assess
 *   **Mitigation:** I successfully decoupled the messaging components and modified the backend dependencies to ensure the schema complied perfectly with cloud constraints before proceeding.
 
 *   **Assessment Screenshot:**
-![Step 1 - Cloud Assessment](cloud assessment.png)
+![Step 1 - Cloud Assessment](cloud_assessment.png)
 
 ---
 
@@ -36,7 +36,7 @@ With all architectural blockers successfully mitigated, I used the migration eng
 
 *   **Schema Deployment Screenshot:**
 ![Step 2 - Schema Deployment](schema_deployment.png)
-![Step 2 - Schema Deployment](schema_deployment 2.png)
+![Step 2 - Schema Deployment](schema_deployment_2.png)
 ---
 
 # Step 3: Data Mapping & Table Validation
@@ -63,7 +63,7 @@ The final phase focused on data ingestion and validating data integrity across e
 
 
     **Successful Data Migration Screenshot:**
-![Step 5 - Successful_Data_Migration](Successful Data Migration.png)
+![Step 5 - Successful_Data_Migration](Successful_Data_Migration.png)
 
 ---
 ## 🎯 Key Achievements & Takeaways
