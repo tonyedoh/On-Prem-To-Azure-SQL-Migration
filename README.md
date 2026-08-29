@@ -69,5 +69,4 @@ The final phase focused on data ingestion and validating data integrity across e
 ## 🎯 Key Achievements & Takeaways
 *   **Blocker Mitigation:** Identified and resolved cloud incompatibility bugs (Service Broker limitations) prior to migration.
 *   **Zero Data Loss:** Successfully migrated relational data records with 100% data integrity verified.
-*   **Cloud Fluency:** Gained hands-on experience using industry-standard enterprise migration workflows and cloud infrastructure concepts.
-*   
+*   **Cloud Fluency:** Gained hands-on experience using industry-standard enterprise migration workflows and cloud infrastructure concepts.  
