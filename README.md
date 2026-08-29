@@ -62,8 +62,14 @@ The final phase focused on data ingestion and validating data integrity across e
 ![Step 4 - Local Verification](validation_local.png)
 
 
+
+---
+
+
     **Successful Data Migration Screenshot:**
 ![Step 5 - Successful_Data_Migration](Successful_Data_Migration.png)
+
+
 
 ---
 ## 🎯 Key Achievements & Takeaways
