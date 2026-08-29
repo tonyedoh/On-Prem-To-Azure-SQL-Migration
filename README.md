@@ -63,7 +63,7 @@ The final phase focused on data ingestion and validating data integrity across e
 
 
     **Successful Data Migration Screenshot:**
-![Step 5 - Successful_Data_Migration](Successful_Data_Migration.png)
+![Step 5 - Successful_Data_Migration](Successful Data Migration.png)
 
 ---
 ## 🎯 Key Achievements & Takeaways
