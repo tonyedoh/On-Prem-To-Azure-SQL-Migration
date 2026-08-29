@@ -24,7 +24,7 @@ Before executing the migration, I performed a comprehensive compatibility assess
 *   **Mitigation:** I successfully decoupled the messaging components and modified the backend dependencies to ensure the schema complied perfectly with cloud constraints before proceeding.
 
 *   **Assessment Screenshot:**
-![Step 1 - Cloud Assessment](images/assessment.png)
+![Step 1 - Cloud Assessment](cloud assessment.png)
 
 ---
 
@@ -35,8 +35,8 @@ With all architectural blockers successfully mitigated, I used the migration eng
 *   Result: '13 SQL commands executed successfully with 0 errors', establishing our relational keys, indices, and constraints in the cloud.
 
 *   **Schema Deployment Screenshot:**
-![Step 2 - Schema Deployment](images/schema_deployment.png)
-
+![Step 2 - Schema Deployment](schema_deployment.png)
+![Step 2 - Schema Deployment](schema_deployment 2.png)
 ---
 
 # Step 3: Data Mapping & Table Validation
@@ -46,7 +46,7 @@ Once the target database architecture was active in Azure, I initialized the dat
 *   The system verified row layouts, data definitions, and data types, marking all core production tables as **"Ready to move"**.
 
 * **Data Selection Screenshot:**
-![Step 3 - Data Selection](images/data_selection.png)
+![Step 3 - Data Selection](data_selection.png)
 
 ---
 
@@ -58,8 +58,12 @@ The final phase focused on data ingestion and validating data integrity across e
 *   **Verification:** Verified that row counts, transaction timestamps, and relational constraints matched perfectly across both environments with zero data corruption or loss.
 
 *   **Validation Screenshots:**
-![Step 4 - Cloud Validation](images/validation_cloud.png)
-![Step 4 - Local Verification](images/validation_local.png)
+![Step 4 - Cloud Validation](validation_cloud.png)
+![Step 4 - Local Verification](validation_local.png)
+
+
+    **Successful Data Migration Screenshot:**
+![Step 5 - Successful_Data_Migration](Successful_Data_Migration.png)
 
 ---
 ## 🎯 Key Achievements & Takeaways
