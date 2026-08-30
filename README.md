@@ -76,3 +76,11 @@ The final phase focused on data ingestion and validating data integrity across e
 *   **Blocker Mitigation:** Identified and resolved cloud incompatibility bugs (Service Broker limitations) prior to migration.
 *   **Zero Data Loss:** Successfully migrated relational data records with 100% data integrity verified.
 *   **Cloud Fluency:** Gained hands-on experience using industry-standard enterprise migration workflows and cloud infrastructure concepts.  
+
+
+
+---
+
+## SQL Performance Case Study
+I have created a standalone performance tuning script demonstrating how to optimize slow, non-sargable database queries to minimize cloud resource consumption. 
+*  View the full optimization script and indexing solution here: [optimization_case_study.sql](optimization_case_study.sql)
