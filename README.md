@@ -83,4 +83,4 @@ The final phase focused on data ingestion and validating data integrity across e
 
 ## SQL Performance Case Study
 I have created a standalone performance tuning script demonstrating how to optimize slow, non-sargable database queries to minimize cloud resource consumption. 
-*  View the full optimization script and indexing solution here: [optimization_case_study.sql](optimization_case_study.sql)
+*  View the full optimization script and indexing solution here: [optimization_case_study.sql](Optimization_case_study.sql)
